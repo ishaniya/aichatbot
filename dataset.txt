@@ -1,0 +1,81 @@
+cvirus
+Coronaviruses are a family of viruses that range from the common cold to MERS coronavirus, which is
+Middle East Respiratory Syndrome coronavirus and SARs, Severe acute respiratory syndrome
+coronavirus. 
+
+fullform
+Corona Virus disease-2019.
+
+
+
+local
+coronavirus In India LIVE Updates : Prime Minister Narendra Modi shared a video message with the nation today, amid the Coronavirus crisis in the country and urged the people to battle the darkness of coronavirus by lighting diyas, candles and torchlight at 9 PM on Sunday, April 5 for 9 minutes. He asked people to keep the lights of the houses switched off during the activity. He also asked people to avoid gathering anywhere during the activity. Later Prime Minister held a video conference with 40 top personalities of India from various sports including Sourav Ganguly and Sachin Tendulkar. The deadly contagion has claimed more than 50 lives in the country and has infected more than 2500 people.   
+
+
+
+
+inter
+The White House is expected to urge people to cover their faces when going outside, after the United States suffered a record daily death toll and the country grappled with the reality of a devastating economic downturn. With debate unfolding over the full scope of the coronavirus pandemic, Australia’s chief medical officer said Friday that the global caseload was probably five to 10 times higher than official figures indicated, and China warned of the risk of a resurgence in domestic case numbers.
+
+
+
+
+totca
+total cases 1018107 as per 3 april.
+
+
+
+
+totda
+total deaths 53251  as per 3 april.
+
+
+
+
+totre
+total recovered 213218 as per 3 april.
+
+
+
+
+
+
+selfda
+type yes/nope if you have all the symtoms
+flu
+cold 
+sore throat.
+
+
+
+
+
+
+nope
+you might have something else like a common cold.
+
+
+
+
+
+
+
+yes
+type ya or na
+do you have a travel history.
+
+
+
+
+
+
+
+ya
+go see a doctor.
+
+
+
+
+
+na
+you probably have common cold or viral.
